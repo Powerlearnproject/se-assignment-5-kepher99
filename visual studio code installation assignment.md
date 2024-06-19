@@ -171,4 +171,4 @@
 - **Commit**: Write a commit message and commit changes.
 - **Push**: Push changes to GitHub using the terminal or integrated Git commands.
 
- By following these guidelines, you will be able to effectively install, configure, and utilize Visual Studio Code for your development projects. For further information and visual aids, refer to the official [Visual Studio Code documentation](https://code.visualstudio.com/docs).
+ By following these guidelines, you will be able to effectively install, configure, and utilize Visual Studio Code for your development projects. For further information and visual aids, refer to the official [Visual Studio Code documentation](https://code.visualstudio.com/docs)
